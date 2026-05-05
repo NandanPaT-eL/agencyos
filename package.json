@@ -23,5 +23,9 @@
     "globals": "latest",
     "typescript-eslint": "latest"
   },
-  "type": "module"
+  "type": "module",
+  "name": "agencyos",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Open-source project management dashboard for consulting agencies."
 }
