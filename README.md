@@ -153,6 +153,7 @@ npm run build
 - [Agentic development system](docs/agents/agentic-system.md)
 - [Agentic product loop](docs/agents/product-loop.md)
 - [Competitive analysis](docs/competitive-analysis.md)
+- [UX product vision](docs/ux-product-vision.md)
 
 ## Contributing
 

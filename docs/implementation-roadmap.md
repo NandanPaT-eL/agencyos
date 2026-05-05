@@ -122,6 +122,20 @@ After the core workflow works, AgencyOS needs to explain itself and surface deci
 - Time totals and project summaries are accurate.
 - User understands next action within 2 minutes of signup.
 
+
+## UX excellence track — startup-ready product feel
+
+This track runs across Loops 1–4. AgencyOS should feel premium, not like an admin database. Priority UX work:
+
+- premium project creation drawer with team assignment and live budget/time summary
+- employee capacity and time-management overview
+- project cockpit with team/time/budget visibility
+- drag-and-drop tickets with accessible fallback
+- real timer, manual time-entry CRUD, and weekly timesheets
+- customer cockpit / CRM-lite views connecting projects, tickets, time, health, and revenue
+
+See [UX product vision](ux-product-vision.md).
+
 ## Deferred until after credible multi-user workflow
 
 - Invoicing
