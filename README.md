@@ -42,6 +42,8 @@ npm run preview
 
 - [Product spec](docs/product-spec.md)
 - [Architecture](docs/architecture.md)
+- [Tech stack decision](docs/tech-stack-decision.md)
+- [Implementation roadmap](docs/implementation-roadmap.md)
 - [Development workflow](docs/development-workflow.md)
 - [Agentic system](docs/agents/agentic-system.md)
 
@@ -49,14 +51,14 @@ npm run preview
 
 Next useful modules:
 
-1. Edit/delete/detail drawers for projects, tickets, and time entries
-2. Route-based pages and component split
-3. PostgreSQL schema, migrations, and seed data
-4. Authentication and multi-agency workspaces
-5. Project member roles and permissions
-6. Live timer, weekly timesheet, approvals
+1. Next.js App Router shell
+2. PostgreSQL schema, migrations, and seed data
+3. Auth.js login and workspace model
+4. Database-backed customers, projects, tickets, time, and team
+5. Edit/delete/detail drawers for core entities
+6. Live timer, weekly timesheet, and report filters
 7. Budget burn, utilization, and profitability reports
-8. GitHub-backed CI/CD and public contributor docs
+8. GitHub Actions CI, Playwright E2E, and self-hosting docs
 
 ## License
 
